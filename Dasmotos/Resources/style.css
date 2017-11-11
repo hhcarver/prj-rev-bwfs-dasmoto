@@ -1,0 +1,32 @@
+body{
+  font-family: Helvetica;
+}
+h1{
+  background-image: url("/Users/hhscheller/Documents/CodeAcademy/CodeAcademyProjects/Dasmotos/Resources/pattern.jpeg");
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+.brushes h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.price{
+  font-weight: bold;
+  color: blue;
+}
+.frames h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color:lightcoral;
+}
+.paint h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color:skyblue;
+}
